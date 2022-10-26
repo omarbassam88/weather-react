@@ -26,6 +26,7 @@ interface IWeatherIconProps {
 export default function WeatherIcon(props: IWeatherIconProps) {
   return (
     <FontAwesomeIcon
+      color="#5fb0e8"
       size={props.size}
       icon={getWeatherIcon(props.weatherCode)}
     />

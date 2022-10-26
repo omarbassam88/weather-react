@@ -6,6 +6,7 @@
 .city {
   padding: 2rem;
   font-size: 1.2rem;
+  font-weight: 100;
 }
 
 .active {
@@ -22,7 +23,7 @@
 
 .loader {
   border: 16px solid #f3f3f3; /* Light grey */
-  border-top: 16px solid #3498db; /* Blue */
+  border-top: 16px solid var(--color-primary); /* Blue */
   border-radius: 50%;
   width: 60px;
   height: 60px;
