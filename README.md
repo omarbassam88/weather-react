@@ -2,8 +2,12 @@
 
 A simple Weather Application made with [React.js](https://reactjs.org/), CSS modules and Font-Awesome Icons using the [Open-Meteo](https://open-meteo.com) Weather API.
 
+Check the application is live on the following link:
+
+[weather-react](https://weather-react-three.vercel.app/)
+
 <p align="center">
-<img src="./screenshot.png" >
+  <img src="./screenshot.png" >
 </p>
 
 ## Requirements
